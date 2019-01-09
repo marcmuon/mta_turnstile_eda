@@ -2,15 +2,18 @@
 
 ## Contributors
 
-Marc Kelechava [GitHub](https://github.com/marcmuon)
-Liangzhen Du [GitHub](https://github.com/liangzhen92)
-Alexandra Fox [GitHub](https://github.com/alexpfox)
+Marc Kelechava [GitHub](https://github.com/marcmuon)  
+
+Liangzhen Du [GitHub](https://github.com/liangzhen92)  
+
+Alexandra Fox [GitHub](https://github.com/alexpfox)  
 
 ## Problem
 
 We received an "email" asking us for help targeting women to attend the group WomenTechWomenYes's first event:
 
-"Robert & Adam -
+```
+Robert & Adam -
 
 It was great to meet with you and chat at the event where we recently met and had a nice chat. We’d love to take some next steps to see if working together is something that would make sense for both parties.
 
@@ -28,7 +31,8 @@ Best,
 
 Karrine and Dahlia
 
-WTWY International"
+WTWY International
+```
 
 
 ## Toolkit
