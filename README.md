@@ -8,7 +8,7 @@ Liangzhen Du [GitHub](https://github.com/liangzhen92)
 
 Alexandra Fox [GitHub](https://github.com/alexpfox)
 
-Chris Mile [GitHub] (https://github.com/cjm715)
+Chris Miles [GitHub](https://github.com/cjm715)
 
 ## Problem
 
