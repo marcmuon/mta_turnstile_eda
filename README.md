@@ -6,7 +6,9 @@ Marc Kelechava [GitHub](https://github.com/marcmuon)
 
 Liangzhen Du [GitHub](https://github.com/liangzhen92)  
 
-Alexandra Fox [GitHub](https://github.com/alexpfox)  
+Alexandra Fox [GitHub](https://github.com/alexpfox)
+
+Chris Mile [GitHub] (https://github.com/cjm715)
 
 ## Problem
 
